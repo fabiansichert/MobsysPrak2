@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889536938401",
+    "project_id": "mobsysprak2",
+    "storage_bucket": "mobsysprak2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889536938401:android:f6234de1749a1472f50be0",
+        "android_client_info": {
+          "package_name": "de.hsas.inf.mobsys.praktikumsaufgabe_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACyHteAfwY7vmVoZjmwuN7IqlMgvsJ0eA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
